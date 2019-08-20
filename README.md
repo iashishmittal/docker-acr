@@ -6,7 +6,7 @@ Building can be done with the original `docker build`, or with the new *BuildKit
 experimental 'buildx' command, which is in nightly builds as well as in the Docker Engine 19.03 release,
 provides a new, albeit familiar front end to BuildKit similar to the original `docker build` command.
 BuildKit has some great new added features such as increased performance, and the ability to easily build
-cross platform.
+cross platform....
 
 To build for your own platform with the original docker build command, use:
 
