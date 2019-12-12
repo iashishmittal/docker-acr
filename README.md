@@ -1,6 +1,6 @@
 
 Building Docker Doodles
------------------------
+--------------------------------------
 
 Building can be done with the original `docker build`, or with the new *BuildKit* application.  The new
 experimental 'buildx' command, which is in nightly builds as well as in the Docker Engine 19.03 release,
